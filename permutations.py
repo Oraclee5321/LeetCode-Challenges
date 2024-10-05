@@ -1,4 +1,4 @@
-# Leet Code Permutations Daily Challenge
+# Leet Code Permutations Daily Challenge: 5th Oct 24
 # 1799ms Completion time - reduced from 5000
 # getCount is inefficent
 # https://leetcode.com/problems/permutation-in-string/description/?envType=daily-question&envId=2024-10-05

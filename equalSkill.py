@@ -1,8 +1,7 @@
+# LeetCode Equal Skill Daily Challenge: 4th Oct 24
+# 1431 ms Clear Time - Very Inefficent
+# https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/
 def dividePlayers(skill):
-    """
-    :type skill: List[int]
-    :rtype: int
-    """
     skill = sorted(skill)
     average_skill = sum(skill) / (len(skill) / 2)
     if average_skill.is_integer():
